@@ -15,6 +15,10 @@
     Configurar nombre: git config --global user.name "Ricardo"
     Configurar correo: git config --global user.name "jr.naldos@gmail.com"
 
-Primero iniciar git init
+Primero iniciar git>  git init
 git add . 
 luego:   para hacer cambios: git commit -m 'create folder images'
+
+
+git log --oneline --graph   
+
